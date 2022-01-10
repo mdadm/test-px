@@ -1,0 +1,17 @@
+.product-quantity {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    margin: 10px auto;
+}
+
+.product-quantity__button {
+    width: 30px;
+    height: 20px;
+}
+
+.product-quantity__count {
+    width: 30px;
+    height: 20px;
+    text-align: center;
+}
